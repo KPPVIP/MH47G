@@ -1,0 +1,37 @@
+MH-47G Chinook
+--------------
+
+Mod features:
+-working gauges
+-Enterable interior
+-Working guns
+-Working flares
+-working lights
+-bullet impact
+-dirt mapping
+
+Original Model:
+Area51sim
+
+Flare settings by: Elope
+
+Converted and edited by - SkylineGTRFreak
+
+
+-----------------------------------------------------------------------------
+Instructions [Add-On]:
+
+1. Place the "mh47g" folder into [Gamefolder]\update\X64\dlcpacks\
+
+2. With OpenIV, extract [Game folder]\update\update.rpf\common\data\dlclist.xml and edit this with Notepad++. Add the following entry:
+		<Item>dlcpacks:\mh47g\</Item>
+
+3. Now you are done, you will need a trainer with "spawn by name" function (Enhanced Native Trainer for example) to spawn the vehicle type in:
+
+"mh47g"
+
+
+If you're game crashes on startup, download a custom gameconfig.xml for your update.rpf. Example: https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars
+
+I would advise using a Mods folder (more info at OpenIV) 
+and make a backup, I take no responsibility if any shit happens.
